@@ -38,11 +38,17 @@ img{
     padding-top: 26px;
     height:29px;
     margin-right: 60px;
+    display: flex;
 }
 
 
 button[name="search"] {
     margin-left: 41px;
+    border: none;
+    background: black;
+}
+
+button[name="assept"] {
     border: none;
     background: black;
 }
